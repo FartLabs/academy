@@ -198,3 +198,7 @@ ol.timeline p {
     align-items: baseline;
   }
 }
+
+main pre code {
+  white-space: pre-wrap;
+}
